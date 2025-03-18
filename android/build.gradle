@@ -24,6 +24,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 30
+    namespace "com.yendoplan.openappfile"
 
     defaultConfig {
         minSdkVersion 16
